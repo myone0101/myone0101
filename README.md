@@ -83,4 +83,3 @@ Building scalable web applications, APIs, and platforms with a strong focus on f
 * Open to interesting web, SaaS, and platform-level projects
 * Comfortable working remotely with global teams
 * Always happy to discuss architecture, performance, and product ideas
-
