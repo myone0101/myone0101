@@ -77,7 +77,6 @@ Building scalable web applications, APIs, and platforms with a strong focus on f
 ![GitHub followers](https://img.shields.io/github/followers/myone0101?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/myone0101?style=for-the-badge)
 
----
 
 ### 📫 Let’s Connect
 
