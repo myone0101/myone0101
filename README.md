@@ -8,7 +8,7 @@
                                                **   *.                     .*   **
                                                  **    *. _ _ _ _ _ _ _ .*    **
                                                    **                       **
-<h1 align="center">👋 Hi,</h1>
+<h1 align="center">👋 Hi </h1>
 <h2 align="center">Senior Full-Stack Developer | Web Applications, APIs & Scalable Systems</h2>
 
 <p align="center">
