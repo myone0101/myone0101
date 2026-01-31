@@ -67,7 +67,7 @@ I build production-grade web platforms with clean frontend architecture and reli
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=flat)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ...more
 
 ---
 ## 🤖 AI & Automation
