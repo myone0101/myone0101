@@ -25,7 +25,7 @@ I build production-grade web platforms with clean frontend architecture and reli
 
 | | |
 |---|---|
-| **Experience** | 10+ years building production web applications |
+| **Experience** | 7+ years building production web applications |
 | **Role** | Senior Full-Stack Software Engineer |
 | **Focus** | Frontend architecture, APIs, backend systems |
 | **Domains** | SaaS, fintech, data-driven & AI-powered products |
